@@ -6,7 +6,7 @@ In the command line, activate the virtual environment: (first head to the venv d
 ```
 cd venv
 venv\Scripts\Activate
-venv\Scripts\Activate
+venv\Scripts\Activate.bat
 ```
 There should be a (venv) to the left of the directory
 Next, run this command to run the volume control program:
